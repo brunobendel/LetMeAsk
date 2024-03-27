@@ -5,6 +5,8 @@ NLW Together 06 Stars License
 ## 💻 Site Hospedado no Firebase Hosting.
 
 - [Visite o Site](https://letmeask-4fd88.web.app/)
+- ![image](https://github.com/brunobendel/LetMeAsk/assets/75317932/a1f065b4-accf-42c2-9762-97a1ef99776d)
+
 
 ## 🧪 Tecnologias
 
